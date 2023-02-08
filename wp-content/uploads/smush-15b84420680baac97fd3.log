@@ -1,0 +1,65 @@
+[2022-03-09 10:22:39 : INFO] - Re_Smush_It_Task with attachment ID : 1648, autocreated on : March 09, 2022 10:22:39 
+[2022-03-09 10:27:43 : INFO] - 
+ 
+[2022-03-09 10:27:43 : INFO] - Header for logs at time:  Wed, 09 Mar 2022 10:27:43 +0000 on https://www.suvedfoods.com 
+[2022-03-09 10:27:43 : INFO] - WP: 5.8.3 
+[2022-03-09 10:27:43 : INFO] - PHP: 7.4.28 (cgi-fcgi, Linux cs10.hostgator.in 4.19.150-76.ELK.el6.x86_64 #1 SMP Wed Oct 7 01:34:10 CDT 2020 x86_64) 
+[2022-03-09 10:27:43 : INFO] - MySQL: 5.6.32 
+[2022-03-09 10:27:43 : INFO] - WPLANG: en_US 
+[2022-03-09 10:27:43 : INFO] - Server: Apache 
+[2022-03-09 10:27:43 : INFO] - Outbound connections: N 
+[2022-03-09 10:27:43 : INFO] - safe_mode: 0 
+[2022-03-09 10:27:43 : INFO] - max_execution_time: 30 
+[2022-03-09 10:27:43 : INFO] - memory_limit: 256M (used: 81.6M | 83M) 
+[2022-03-09 10:27:43 : INFO] - multisite: N 
+[2022-03-09 10:27:43 : INFO] - openssl: OpenSSL 1.1.1m  14 Dec 2021 
+[2022-03-09 10:27:43 : INFO] - A total of 1 tasks of type smush found and will be processed in this iteration 
+[2022-03-09 10:27:43 : DEBUG] - Lock option (updraft_lock_smush, wp_options) was created in the database 
+[2022-03-09 10:27:43 : INFO] - Lock (updraft_lock_smush, wp_options) acquired after initialising the database 
+[2022-03-09 10:27:43 : INFO] - Processing task with ID : 1, and type 'smush' 
+[2022-03-09 10:27:43 : INFO] - Re_Smush_It_Task with attachment ID : 1648, autocreated on : March 09, 2022 10:22:39 
+[2022-03-09 10:27:43 : INFO] - 90 
+[2022-03-09 10:27:44 : INFO] - Backing up the original image - 2022/03/Artboard_1_2-removebg-preview-updraft-pre-smush-original.png 
+[2022-03-09 10:27:44 : INFO] - Re_Smush_It_Task with attachment ID : 1648, autocreated on : March 09, 2022 10:22:39 
+[2022-03-09 10:27:44 : INFO] - 90 
+[2022-03-09 10:27:45 : INFO] - Re_Smush_It_Task with attachment ID : 1648, autocreated on : March 09, 2022 10:22:39 
+[2022-03-09 10:27:45 : INFO] - 90 
+[2022-03-09 10:27:46 : INFO] - Re_Smush_It_Task with attachment ID : 1648, autocreated on : March 09, 2022 10:22:39 
+[2022-03-09 10:27:46 : INFO] - 90 
+[2022-03-09 10:27:46 : INFO] - Re_Smush_It_Task with attachment ID : 1648, autocreated on : March 09, 2022 10:22:39 
+[2022-03-09 10:27:46 : INFO] - 90 
+[2022-03-09 10:27:47 : INFO] - Re_Smush_It_Task with attachment ID : 1648, autocreated on : March 09, 2022 10:22:39 
+[2022-03-09 10:27:47 : INFO] - 90 
+[2022-03-09 10:27:48 : INFO] - Re_Smush_It_Task with attachment ID : 1648, autocreated on : March 09, 2022 10:22:39 
+[2022-03-09 10:27:48 : INFO] - 90 
+[2022-03-09 10:27:48 : INFO] - Re_Smush_It_Task with attachment ID : 1648, autocreated on : March 09, 2022 10:22:39 
+[2022-03-09 10:27:48 : INFO] - 90 
+[2022-03-09 10:27:49 : INFO] - Re_Smush_It_Task with attachment ID : 1648, autocreated on : March 09, 2022 10:22:39 
+[2022-03-09 10:27:49 : INFO] - 90 
+[2022-03-09 10:27:50 : INFO] - Re_Smush_It_Task with attachment ID : 1648, autocreated on : March 09, 2022 10:22:39 
+[2022-03-09 10:27:50 : INFO] - 90 
+[2022-03-09 10:27:51 : INFO] - Re_Smush_It_Task with attachment ID : 1648, autocreated on : March 09, 2022 10:22:39 
+[2022-03-09 10:27:51 : INFO] - 90 
+[2022-03-09 10:27:51 : INFO] - Re_Smush_It_Task with attachment ID : 1648, autocreated on : March 09, 2022 10:22:39 
+[2022-03-09 10:27:51 : INFO] - 90 
+[2022-03-09 10:27:52 : INFO] - Successfully optimized the image - /home2/revaarrf/suvedfoods.com/wp-content/uploads/2022/03/Artboard_1_2-removebg-preview.png.The file was compressed from 56.37 KB to 18.05 KB saving 67.98 percent using WP-Optimize 
+[2022-03-09 10:27:52 : INFO] - Completed processing task with ID : 1, and type 'smush' 
+[2022-03-09 10:27:52 : INFO] - Lock option (updraft_lock_smush, wp_options) released 
+[2022-03-09 10:27:52 : INFO] - Successfully processed the queue (smush). 1 tasks were processed out of 1. 
+[2022-03-09 10:27:52 : INFO] - Lock option (updraft_lock_smush, wp_options) was deleted from the database 
+[2022-03-09 10:27:52 : INFO] - Cleaning up tasks of type (smush). A total of 1 tasks will be deleted. 
+[2022-03-09 10:38:27 : INFO] - 
+ 
+[2022-03-09 10:38:27 : INFO] - Header for logs at time:  Wed, 09 Mar 2022 10:38:27 +0000 on https://www.suvedfoods.com 
+[2022-03-09 10:38:27 : INFO] - WP: 5.8.3 
+[2022-03-09 10:38:27 : INFO] - PHP: 7.4.28 (cgi-fcgi, Linux cs10.hostgator.in 4.19.150-76.ELK.el6.x86_64 #1 SMP Wed Oct 7 01:34:10 CDT 2020 x86_64) 
+[2022-03-09 10:38:27 : INFO] - MySQL: 5.6.32 
+[2022-03-09 10:38:27 : INFO] - WPLANG: en_US 
+[2022-03-09 10:38:27 : INFO] - Server: Apache 
+[2022-03-09 10:38:27 : INFO] - Outbound connections: N 
+[2022-03-09 10:38:27 : INFO] - safe_mode: 0 
+[2022-03-09 10:38:27 : INFO] - max_execution_time: 30 
+[2022-03-09 10:38:27 : INFO] - memory_limit: 256M (used: 81.6M | 83M) 
+[2022-03-09 10:38:27 : INFO] - multisite: N 
+[2022-03-09 10:38:27 : INFO] - openssl: OpenSSL 1.1.1m  14 Dec 2021 
+[2022-03-09 10:38:27 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
